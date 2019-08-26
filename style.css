@@ -1,0 +1,25 @@
+body {
+    background-color:#eaf6f6;
+    font-family:'Muli', sans-serif;
+}
+        
+hr {
+    background-color:#eaf6f6;
+    border-style:none none dotted none;
+    height:2px;
+    width:50px;
+    border-width:thick;
+    border-bottom-color: darkgrey;
+}
+
+h1, h3 {
+    color:#66bfbf;
+}
+
+p {
+    font-family:'Montserrat', serif;
+}
+
+.circular {
+    border-radius:100%;
+}
